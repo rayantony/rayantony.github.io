@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ray Antony
+tagline:          A Git Blog
+url:              http://rayantony.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Ray Antony
+  url:            https://twitter.com/rayanthonyrcc
+  email:          ray@rayantony.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/rayantony/rayantony.github.io
