@@ -7,34 +7,7 @@ title: Introducing rayantony
 
 -----
 
-the rayantony blog project is the master of [Jekyll](http://jekyllrb.com), the static site generator. his designed and developed by [@rayanthony](https://twitter.com/rayanthony) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+Though it is originally and quite obviously we imagine, pertaining to to the jekyll theme and engine, the story is applicable as well to this blog in particular. the 'ray antony' blog project is in fact by rayantony's master 'ray anthony' but through an unfortunate circumstance within the normal naming system eg bad timing, alas it must bear the unfortunate name of 'ray antony', of course missing that crucial consonant the cause of yet a new fracture to the self formerly and to be again, ray anthony.
 
-There are currently two themes built on rayantony:
+*Confused?* Yes, aren't we all... But 100's of aliases domains and accounts later, to tell up from down becomes suddenly, not so simple.
 
-* [Hyde](http://hyde.getrayantony.com)
-* [rayantony](http://rayantony.getrayantony.com)
-
-Learn more and contribute on [GitHub](https://github.com/rayantony).
-
-### What's included
-
-the rayantony blog project is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. rayantony, and every theme built on it, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404.html), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-Additional features are available in individual themes.
-
-### Browser support
-
-the rayantony blog project and his themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-the rayantony blog project is developed on and hosted with GitHub. Head to the <a href="https://github.com/rayantony/rayantony.github.io">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
