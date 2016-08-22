@@ -1,6 +1,6 @@
 ---
 title: Ray Antony
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -10,12 +10,12 @@ collections:
     output: true
 permalink: pretty
 relative_permalinks: true
-tagline: A Git Blog
+tagline: Ray Anthony GH Blog
 url: http://rayantony.github.io
-paginate: 1
+paginate: 4
 baseurl: "/"
 author:
-  name: Ray Antony
+  name: Ray Anthony
   url: https://twitter.com/rayanthonyrcc
   email: ray@rayantony.com
 version: 1.0.0
