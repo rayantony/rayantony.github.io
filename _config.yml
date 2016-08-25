@@ -2,6 +2,9 @@
 title: Ray Antony
 timezone: America/Los_Angeles
 collections:
+  business:
+    title: Business
+    output: true
   posts:
     title: Posts
     output: true
