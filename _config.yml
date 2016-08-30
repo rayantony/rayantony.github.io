@@ -5,6 +5,9 @@ collections:
   business:
     title: Business
     output: true
+  part-3:
+    title: Part 3
+    output: true
   posts:
     title: Posts
     output: true
