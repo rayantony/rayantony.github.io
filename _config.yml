@@ -1,16 +1,6 @@
 ---
 title: WTF is Ray Antony
-tagline: a G.H. Pages Blog
 timezone: America/Los_Angeles
-url: http://rayantony.github.io
-baseurl: "/"
-Description: Disclosures, reflections, and code tell the fragmented story of life post embezzlement
-
-permalink:           pretty
-relative_permalinks: true
-#gems: 		     jekyll-paginate
-paginate:           5
-
 collections:
   data:
     title: Data
@@ -21,32 +11,35 @@ collections:
   uploads:
     title: Uploads
     output: true
-
+tagline: a G.H. Pages Blog
+url: http://rayantony.github.io
+baseurl: "/"
+Description: Disclosures, reflections, and code tell the fragmented story of life
+  post embezzlement
+permalink: pretty
+relative_permalinks: true
+paginate: 5
 author:
-  name:              Ray Anthony
-  url:               https://rayantony.github.io/
-  email:             ray@rayantony.com
-  repo:              https://github.com/rayrc/bootsplat/
-  twitter:           https://twitter.com/rayanthonyrcc/
-  twitter_username:  rayanthonyrcc
-  github_username:   rayantony
-  aboutme_username:  https://about.me/rayanthony
-  lastfm_username:   deadflowers
-  pandora_username:  ray517
-  codepen_username:  rayrc
+  name: Ray Anthony
+  url: https://rayantony.github.io/
+  email: ray@rayantony.com
+  repo: https://github.com/rayrc/bootsplat/
+  twitter: https://twitter.com/rayanthonyrcc/
+  twitter_username: rayanthonyrcc
+  github_username: rayantony
+  aboutme_username: https://about.me/rayanthony
+  lastfm_username: deadflowers
+  pandora_username: ray517
+  codepen_username: rayrc
   jsfiddle_username: rayrc
-  
-  
 github:
-  url:  https://rayantony.github.io/
+  url: https://rayantony.github.io/
   repo: https://github.com/rayantony/rayantony.github.io
   user: https://github.com/rayantony/
   org: https://github.com/rayrc/
   team: https://github.com/rayrc/
-  
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 version: 1.0.0
