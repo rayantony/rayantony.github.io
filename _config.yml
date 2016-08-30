@@ -8,7 +8,7 @@ Description: Disclosures, reflections, and code tell the fragmented story of lif
 
 permalink:           pretty
 relative_permalinks: true
-gems: 		     jekyll-paginate
+#gems: 		     jekyll-paginate
 paginate:           5
 
 collections:
