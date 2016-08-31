@@ -1,13 +1,12 @@
 ---
 title: Credibility and Reputation Bad Blogs
-layout: post
 date: 2016-08-30 15:07:00 -07:00
 categories:
 - blog-posts
 tags:
 - business
+layout: post
 ---
-
 
 ### Credibility and Reputation Bad Blogs
 My real name and partially accurate info all misspelled just correct enough though to where it's undoubtedly me are not just a complication I've cut short many of these posts for readability but such as all things in life one thing leads to another and its all cause and effect. 
