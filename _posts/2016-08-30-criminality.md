@@ -1,11 +1,11 @@
 ---
 title: Criminality
-date: 2016-08-30 15:05:00 -07:00
+layout: post
+date: 2016-08-30 15:05:00 -08:00
 categories:
 - blog-posts
 tags:
 - background
-layout: post
 ---
 
 ### Criminality
