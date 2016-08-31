@@ -1,6 +1,6 @@
 ---
 title: WTF is Ray Antony
-timezone: America/Phoenix
+timezone: America/Los_Angeles
 collections:
   data:
     title: Data
@@ -23,7 +23,7 @@ author:
   name: Ray Anthony
   url: https://rayantony.github.io/
   email: ray@rayantony.com
-  repo: https://github.com/rayrc/bootsplat/
+  repo: https://github.com/rayantony/
   twitter: https://twitter.com/rayanthonyrcc/
   twitter_username: rayanthonyrcc
   github_username: rayantony
