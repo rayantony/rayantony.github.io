@@ -1,11 +1,11 @@
 ---
 title: Credibility and Reputation Bad Blogs
+layout: post
 date: 2016-08-30 15:07:00 -07:00
 categories:
 - blog-posts
 tags:
 - business
-layout: post
 ---
 
 
