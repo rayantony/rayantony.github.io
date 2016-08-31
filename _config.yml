@@ -17,7 +17,6 @@ baseurl: "/"
 Description: Disclosures, reflections, and code tell the fragmented story of life
   post embezzlement
 permalink: pretty
-relative_permalinks: true
 paginate: 5
 author:
   name: Ray Anthony
