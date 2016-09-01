@@ -1,28 +1,431 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}{{ site.baseurl }}atom.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>WTF is Ray Antony</title>
+ <link href="http://rayantony.github.io/atom.xml" rel="self"/>
+ <link href="http://rayantony.github.io/"/>
+ <updated>2016-09-01T16:28:33+00:00</updated>
+ <id>http://rayantony.github.io</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Ray Anthony</name>
+   <email>ray@rayantony.com</email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Why Criminality is an unwise Career Path</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/Why-criminality-is-an-unwise-career-path/"/>
+   <updated>2016-08-30T23:05:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/Why criminality is an unwise career path</id>
+   <content type="html">&lt;h3 id=&quot;why-criminality-is-an-unwise-career-path&quot;&gt;Why Criminality is an unwise Career Path&lt;/h3&gt;
+&lt;p&gt;I wouldn’t open up a job interview by submitting to a background check nor choose it for first date conversation. In fact I would prefer to not talk about this sort of thing at all given my experience with criminality is as close to me being an high school as my age is close to 40. And I can promise that for each thing I did do I was charged with 3 something as a kid I was too scared to fight and just rationalized as well think of things I didn’t get caught doing. But it’s as relevant in my daily life as my non existent prom night and brought up in conversation even less. I have struggled to bring a higher level moral character into sales companies that began without any regard to rules. I’ve many times risked it all and been called by someone close to me as “frankenstein” for an apparent over-eagerness to mess with my already perfectly honed model. Well my reason for doing what I did at those times was both an issue of ethical concern as well as strategy for longevity or scalability its actually a lot of hard work to scale and fund a con and not many can pull it off the only ones I know personally that have did it in software instead, downplaying that they are boiler room hustlers of the worst variety some times dealerships I fired because easy money always has a price I’ve done in my own industry more than enough and can’t name a single other person in it’s history that have done a single goddamn thing to be more ethical. I don’t make ethical sacrifices for money generally speaking without much cleverness the two are well known to be diametrically opposed not by necessity but by evidence of history and the nature of humankind and capitalism. PJ O’Rourke said once that capitalism works because it rewards selfishness. And human  beings are inherently selfish. And so the egregious way in which corporations have bent the law to their will and allow their morality to be bent by the dollar is sickening. From GE and their toxic dumping of PCB’s or better  the contamination of wallla walla prison to Enron, and of course the crown jewel of reprehensible the health care industry who has found in the near infinite number of ways capitalism can be used to monetize and leverage a commodity they’ve made a conscious decision to The most basic examples being so things happen in industry that are not good but not any surprise  of practice  I can say first hand   and presenting for funding it matters when a sales engine takes much infrastructure and time to reproduce so reflecting on the lifespan of sales reps that demand any specific in-motion environment in order to train right. So if I’m going to sell a dishonest product, I have to be prepared to hire dishonest people OK with that sort of thing, and then accept the consequences when their dishonesty results in some action that results in them not having the lifespan that a more typical and commonplace employee of a successful organization has. If you cannot sustain your model without constantly fuelling the recruitment engine to cycle through sales reps 4x as fast as clients, that’s fine just don’t think you can call yourself a sales company because you are not. You by this description are more appropriately referred to in relation to what your marketable commodity that which you spend most of your time focusing is, human resources. Your marketable commodity is staffing, and however you do it you are marking up that labor. Just like I wouldn’t call 3 guys in a fraternity room with a team of Indians on odesk doing everything for them students, or when they get older and call themselves a software startup, and well I won’t go there.&lt;/p&gt;
+
+&lt;p&gt;I’ve had at least 4 accidents between people hitting my car while its parked in a parking lot and I’m not in it,  An accidental suspension of my license x2, and the same district lost my license plate and was unable to reissue at any DMV for 2 years oh,and I drive sports cars so there are some tickets in there for sure. The ugly is that 20 years ago I spent a few months as a drug dealer. and i got busted. and the circumstance was not normal. The search was beyond illegal, I never said anything but maybe out of fear I would disclose some things I was branded as getting off easy (I didn’t) and certainly I was guilty for double the amount they checked in if you are curious, but I got pulled over 27 or so times in the next year alone. And well not the circumstance you want to give them any ammunition but what can I say I fucked up, a few times. And so it doesnt matter that for every misdeameanor thye write up 3 because when you reall end up at the wrong place but at just the right time, you might just smoking a cigarette listening to zep1 on scoring a ew joint and your friends comes back to the car so quickly after the sound of the smashing  glass you dont even know what happened. you figure it out quick though when he drops his bag and runs through the hills seeing those red and white lights and what more is there to say truthfully I’ve disliked that guy since we were 8 and I saw him eat a booger. Fucking disgusting. And so there went more than I could put into words. I wasn’t even drinking age. The fact that I ran my own sales office for 18 hours a day times 2 years before I was 20 should count for something, but times like this make it not. End of story.&lt;/p&gt;
+
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Customer Service  Social and  Kid Gloves</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/customer-service-social-and-kid-gloves/"/>
+   <updated>2016-08-30T22:20:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/customer-service-social-and-kid-gloves</id>
+   <content type="html">
+&lt;h3 id=&quot;cs---blog-background&quot;&gt;CS - blog background&lt;/h3&gt;
+&lt;p&gt;A few years ago a disgruntled former employee was inconsolable upset at my then partner, in his less crooked days (he looked hte same just happier). He wasn’t being treated with the kid gloves that I myself found to be necessary in all dealing with him. These kid gloves, and a lot of empathy and patience allowed me to go so far as to basically fire him, and quite nearly get him to move out of state, far away  (paid by me personally) which is what you want. I acheived this with his word also I would be exempt from the blogs that he would inevitably write because he liked me.&lt;/p&gt;
+
+&lt;h3 id=&quot;cs---success&quot;&gt;CS - success&lt;/h3&gt;
+&lt;p&gt;Maybe that’s because I don’t fake it when I kid glove, I find a way to make it sincere, maybe its an ability to empathize that I have a gift for. Maybe I don’t have a gift for it I just want to be good at it more than others do. Or maybe, everyone I work with is a goddamn lunatic or sociopath or some such affliction depriving them of emotional intelligence, thus I’m only good because I’m standing next to people particularly awful. I don’t know honestly, I just know I’m not bad it it, thats I think the humble answer.&lt;/p&gt;
+
+&lt;p&gt;It fell under my baliwick to design the customer service flow top to bottom in part because I had the patience for it and no doubt because my recovery rate is astounding, and unmatched by anyone in our industry, chargebacks are non-existent because I killed taking credit cards, cancellations and refunds are minimal because I put a stop to lying and misrepping when I officially took the reigns, turned a 1 percent renewal rate into closer to 30% annually, and got our bigest screamers to be calling my cell phone at all hours like they were my best friend. I would on those calls keep my commitments to them large or small which generally was some form of business counseling be it help with SEO, refining their lead process, rewriting their scripts for them if they were sales people and half were considering we were 50% Real Estate customers times a couple million dollars annually per office, and at peak about that in my main office.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>All the small things</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/all-the-small-things/"/>
+   <updated>2016-08-30T22:17:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/all-the-small-things</id>
+   <content type="html">&lt;p&gt;These small things have culminating in disasters that seem like considerable inconveniences  but more like a retarded me pushing some god forsaken hybrid of SEO and Pay Per Click Managed campaign like a doofus, with the vocabulary of well an Indian Odesker.&lt;/p&gt;
+
+&lt;p&gt;I didn’t create those, I fucking tested as having the reading level of a 35 year old in the goddamn 3rd grade. Now I’m over 35, and it looks like I’m a 3rd grader with that brilliant &lt;em&gt;buy SEO and managed pay-per-click from me&lt;/em&gt; crap, he knows damn well I hate the very thought of. Get it straight of all the projects I did last year 1 was SEO. 1. It made 80k in 8 weeks and became number 1 out of 700 on every single term by 3 months.&lt;/p&gt;
+
+&lt;p&gt;I scrambled to put the whole thing together in 8 weeks with no food and $11 in my pocket on day 1 fresh from getting fucked by chuck, and fast forward a mere two months and it earned $80k+ and was number 1 in its market, and on to make a million. And did it with my girlfriend who hardly knew what SEO was, yes would have been nice to at least been able to use I don’t know the fucking SEO team I owned for 5 years literally only exactly up until the very day where this deal started.&lt;/p&gt;
+
+&lt;p&gt;Now thats good luck. Oh and of course I had to plan first that I would be ripped off, because well I wont go into the muslims with a million dollars bit but well I wasnt wrong, lets just leave it at I’m not new to any aspect, of this. Thats the kind of SEO I can do, and I can still say I hate it and its nerdy. I don’t deserve the clowish joke of a campaign to make me a laughing stock interspersed with complaints bureau shit both his sole doing.&lt;/p&gt;
+
+&lt;p&gt;It has made me the joke I must be because when I needed helping with the site and many others pathetically small amounts of money I had to just let them go in the garbage while starving. Because he robbed me smeared my name and made me a joke.&lt;/p&gt;
+
+&lt;p&gt;I think I like the ridiculous blogs that I’m some mastermind con-artist together with ‘ol chuck. At least it’s less embarrassing. The truth? I already said I’m the guy who was writing the tracking code then and now. The guy who if you look it up you will find the polar opposite of truth, and Charles hand not far from it but a million miles away from the consequences.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Credibility and Reputation Cheap Lazy PR</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/credibility-and-reputation-cheap-lazy-pr/"/>
+   <updated>2016-08-30T22:10:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/credibility-and-reputation-cheap-lazy-pr</id>
+   <content type="html">&lt;h3 id=&quot;credibility-and-reputation-cheap-lazy-pr&quot;&gt;Credibility and Reputation Cheap Lazy PR&lt;/h3&gt;
+
+&lt;p&gt;If you aren’t detail oriented you’ll likely not notice how ignoring details and saving money on your PR can be your most expensive mistake, not until its too late. But hey it’s not like the Internet is a permanent record or anything right!&lt;/p&gt;
+
+&lt;p&gt;I feel like some old man “now Sonny you only get one name ya hear, don’t you go taking that for granted, I wish I thought more about it when I was your age….” he whistles through his dry lips and dentures. Don’t laugh that old guy is right, and even if you care a lot not, you will still care more later.&lt;/p&gt;
+
+&lt;p&gt;A favorite Warren Buffet quote of mine goes :it takes 20 years to build a reputation and only 5 minutes to ruin it.&lt;/p&gt;
+
+&lt;p&gt;For me I started caring a whole lot, right about the time other people started looking. Oh also when a hostile takeover turned into an all out war and the current head honcho somehow under the impression we were going after his franchise network, he went ballistic and shot at everybody, shuffled ALL the invoices and randomly sent them to ALL of the offices by fax and email at the same time. Interesting move. I was to get another punishment, like my partner. A dedicated page on his site spewing whatever damaging  thing he could find, and it was going to come with a free domain name too out in florida one sales manager was the lucky owner of dougstewartfelon.com yeah turns out he was a cocaine runner and car thief once, ooh hard to explain.&lt;/p&gt;
+
+&lt;p&gt;Me? not much, ok nothing serious. Look I have not been to jail for anything in near 20 years besides a traffic ticket and a Blood alcohol so low, it is literally the legal minimum to even consider charging me. Add a 1 pt margin of error standard allowance on the breathalizer and I’m .0081 the law is 0.008. Look even when I go party, I’m holding myself to rules that night was a late night but hey my partner got his first DUI I think 2-3x that plus LSD and 2 under age hookers driving a two-seater. Naughty, naughty. But full disclosure is on another post. For now lets just say in my youth I made a couple piss poor decisions, and preferred to not have it come out when I’m beginning a new chapter in my career and ascending rapidly, and carefully. So ray***.com would not be welcome.&lt;/p&gt;
+
+&lt;p&gt;It was bad enough my partner has an issue, well he was arrested by The Federal Trade Commission. Which come on those guys are such dicks they hate money and private commerce, and they don’t understand it. they almost shouldn’t even deserve to put the cuffs on guilty or not. Make ex-entrepreneurs do it hard up ones who failed have to be narc squad like in the movies, cops shows. Because you should be in the club whether you are there to hang out or to bust the place up you cant come in if you aren’t a member at all.&lt;/p&gt;
+
+&lt;p&gt;Anyway I skated here, skin of my teeth. That happens once every 12 years. And in between I take everyone’s heat so no it doesn’t work out but it did this time, because my name said “information forthcoming”. It’s sheer luck he didn’t fill that name field in correctly the luck of a ridiculous spelling of my name.&lt;/p&gt;
+
+&lt;p&gt;And I wasn’t his prime target the guys in florid he thought we recruited to team up, they were master reseller we were planning our quiet no enemy no recruiting exit plan by coincidence to his paranoia but it forced our hand and to survive thre was war, a peace accord summit meetings (“meeting of the dons”), the whole bit, and then we were on top and i think only recently he got around to spelling my name right. I was nervous from then on and adopted a phone name, thinking of y girlfriends family, of my family and how I had no right to hurt anyone’s reputation byproxy how it was reckless if I loved them, how I wanted none of that shit as part of my already plentiful obstacles, I was very very serious about it. I know I thought I know how damaging it could be but when you sell an less than above board product as a high risk deal on the spot cash over the barrel only high ticket investment on cold calling for a living you know that the only publicity you don’t control will inevitably be bad publicity and that famous saying on the matter, is horseshit in this world. I though of my aunt in real estate struggling, one or 2 links spilling from me to her index given the rarity of the name was likely and would be devastating. DON’T FUCK AROUND WITH YOUR NAME.&lt;/p&gt;
+
+&lt;p&gt;Many success later, many millions a year later here is Charles looking at uneducated offshore slave labor I guess he either wanted to hurt me or just somehow thought was the proper choice to go snatch up all the available social network spellings of my name and reserve them but put the SEO equivalent of a bowel movement, misspelled content, cross our names and paste sloppy graphics around like a down syndrome child no offense, hey lets do it on Crunchbase too in case Zuckerburg didn’t see the Facebook one. Or Marc Andreeson. Yeah remember when we had the first peer to peer HQ DVD encoded video conferencing plugin and the federal government wanted to license it until Johnny went to jail for assaulting his wife? you remember what the dollars were then for funding? That was nothing wait till you see Venturebeat with 20 misspellings in 7 poorly chosen words, that is going to make the money poor in. Dumb Fuck.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Credibility and Reputation Bad Blogs</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/credibility-and-reputation-bad-blogs/"/>
+   <updated>2016-08-30T22:07:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/credibility-and-reputation-bad-blogs</id>
+   <content type="html">&lt;h3 id=&quot;credibility-and-reputation-bad-blogs&quot;&gt;Credibility and Reputation Bad Blogs&lt;/h3&gt;
+&lt;p&gt;My real name and partially accurate info all misspelled just correct enough though to where it’s undoubtedly me are not just a complication I’ve cut short many of these posts for readability but such as all things in life one thing leads to another and its all cause and effect.&lt;/p&gt;
+
+&lt;p&gt;The sum of these small things: a disagreement with a few reps, a big mouth not knowing when to walk away on the blogs, having to have the last word, demeaning people until they of course scream on the internet and throw or make up slime, is  absurdly childish and shortsighted.&lt;/p&gt;
+
+&lt;p&gt;You don’t have to look far for evidence of damage, only a couple years before our reseller network when we took over a goddamn industry starting as just a dealer ourselves in a shithole office, would in any other vertical be something books and movies would be about. If not for the bad press, thats warning 1. What happened? 1 customer. 1 customer taken for a very bad deal by one of those resellers, gets so mad he makes a new living for himself bloging us all out of business. and he did, every single office but mine shut down, out of business. And ours lost over 30 maybe 40% of revenue from if I recall about 1.35-1.7 million gross annual at that time. Fucking millions, our people!&lt;/p&gt;
+
+&lt;p&gt;You do &lt;em&gt;not&lt;/em&gt; engage on public forums how dumb are you? How vain rather. I wonder if we would’ve been so cash strapped living paycheck to paycheck when it all fell over in Irvine might have been gotten through if we had our reseller network intact. Obviously it would’ve helped, I never didn’t know how bad it could be but I lived it and the dollars came out of my pocket. I didnt take from the experiece and challenges in the wake of it that I should go fight ex-employees with a screw loose and a bone to pick on permanent record Internet forums in public view. That just wasn’t the lesson I learned. But I am paying the price for the rest of my life, for the lesson he didn’t learn. For the record you don’t dig into your employees and fight them in any forum, being mean is never necessary and if it ever feels like the right thing to do well I figure that should never factor in for most Americans. When it does its isolated I’ll even accept revenge as that and give you a pass but not if its a godamn pathology you are known for.&lt;/p&gt;
+
+&lt;p&gt;Mean-ness, rage, a need to belittle others and feeling nothing or worse, feeling good while doing it is what bullies do. It’s a sickness stemming from as I’ve seen it either overcompensating for feelings of inadequacy and low self worth or from inflated egos and god-like self importance narcissm. They require a doctor, if you aren’t too angry and amped up for a waiting room twice a month. Or you can let it out on your employees so that they are so afraid and angry add to the fact you fired them and they don’t have any other outlet to reach you, you have a recipe for some harsh blogs coming. It may be all customers, and all bullshit, but no matter how many mountains you move to get from one stage to the next, 1 blogger can reset your score. And if you don’t care about that, care about the partner standing next to you because he’s going down with you. Like I did with Charles.&lt;/p&gt;
+
+&lt;p&gt;I’ll continue this Credibility Rant with regard to Dangerously Sloppiness Rep Management on a another post&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>proud only of being from nothing</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/proud-only-of-being-from-nothing/"/>
+   <updated>2016-08-30T20:57:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/proud-only-of-being-from-nothing</id>
+   <content type="html">&lt;h3 id=&quot;long-way-up&quot;&gt;Long way up&lt;/h3&gt;
+
+&lt;p&gt;I hate pride, I hate talking about myself. I grew up a lot of time around hoods, too much. I hated them. If I had money success would be something I inherited, I never cared about skin color and find black pride ias offensive and ignorant as white power how can you be proud of something you didnt choose. I am proud to be from nothing because it means I can take responsibility for what goes wrong and know that its in my control to change it that makes things easier, simpler, and were I to not feel obnoxious and self conscious about it it also means at my option I can get credit for anything right.&lt;/p&gt;
+
+&lt;p&gt;Not doing so has cost me dearly. For reasons hard to summarize it may kill me sooner than later and take everything because I have a somewhat anonymous reputation. I chose that I can blame charles from not exactly making online a welcoming place no matter what I acheive but ultimately I like my privacy and odd idealist modesty too much and when I needed validation and credibility like I do to survive right now, its not there. For all those reasons and more and because pride annoys me, I hope to be forgivin this not very common braggadocios rant but if I don’t at least try and sell my self my worth on the basis of facts and what I  have accomplished I’m sort of an embarassment to salesman the world round so  here it goes. Here is my background.&lt;/p&gt;
+
+&lt;p&gt;Whose success and up from nothing is the very epitome of exception to the norm. Charles and I are similar in this way because we are the underdog bet against in the beginning and emulated and imitated ad nauseum by the end. It’s never luck all I need is a momentary cessation of bad luck, and if it doesn’t come I still get through.&lt;/p&gt;
+
+&lt;p&gt;And in the ascent to the big leagues was as always a fight nobody else can ever possibly understand especially if they got there by inheritance or by bank loan, criminality, or winning the lottery. I’m humble and secretive and hate talking about myself above all else, but not about this.&lt;/p&gt;
+
+&lt;p&gt;Here I am honor bound to speak up because I have worn every hat even at the same time as in 3 phones 2 headsets 2 keyboards, different voices and bouncing from closer to admin, to janitor, to customer service to accountant to sales manager to goddamn programmer. Whispering in one ear of my salesmen, the magic words to come out the other end for the win. I’ve had to hack google to build a scraper of exclusive ppc data of which I had all of, for the starter data before building my own harvester ip rotators, senders, but that doesnt make the win sales savvy does. So I combine the two I’ve a simple lead formula that has proved a 10x multiplier in every vertical I’ve yet tried and all these tools aren’t some one hit wonder that I build a startup around, they are the anonymous thankless components one of many in a series, that go into simply keeping the machine rolling. It’s not about being well versed in these things I’m not, I just do what it takes and love to create and solve problems and make the whole machine better.&lt;/p&gt;
+
+&lt;p&gt;I started managing my first call center with 3 months experience selling, or any job in life. I was a teenager, and I was homeless breaking into a vacant apartment to sleep. I bought a car with my first 8 hours paycheck. If I didn’t beat at least 97 of my 100 fellow salesman I wouldnt have the gas to come back the next morning, I was number 3 on my 3rd day and in the few months I stayed I remained consistent. A couple months after that I found a shop a humble one that would give me the shot I needed since lets face it I was inexperienced, and forcing out a mustache to hide my age. My point with all this is that was the cost of blowing my rep with family and getting arrested, regardless if I quit. Everything I have attained lost and reattained is always the same. Always a nothing so vacuous of advantage its a place of death and from their hopeless helpless place I choose to make the opportunity for myself and let others enjoy fates favors.&lt;/p&gt;
+
+&lt;p&gt;From this place, I reach the top every time and can still find a way to inspire excellence in those around me and make them up their game despite being lower than any of them would ever know maybe not long before. I am proud of this. It is who I am it is all I know to be. I don’t own a business I am  a business. There’s black people white people fireman and children and heroes and movie stars and there’s me. I’m not any of them I am a business.&lt;/p&gt;
+
+&lt;p&gt;I don’t just identify myself that way I only identify myself that way it’s not what I do it’s what I just am. I learned binary and 80x85 assembler compiling by hand and making up math problems with a book i found in the garbage. I still don’t know what the thing even looks like, never seen one. A beauty though available now in full 1MHz clock speeds!&lt;/p&gt;
+
+&lt;p&gt;Before this I taught myself multiplication division and basic algebra starting in 1st grade. The multiplication one was 4th grade I was so happy when I was allowed to work from it instead of doing my own grade level I couldn’t believe my luck digging through the garbage when school books were thrown out, you’d think I was a poor kid in Bangladesh. In preschool I pushed over my bookcase and screamed pissed off that I couldnt read myself to myself the pages looked like dancing symbols, chinese.  Before you picture some nerd with a complex or creepy high pressure asian parents, I also had long hair an obsession with classic rock, the doors, Jimi, Alice Cooper… Was god awful at sports and preferred using the time writing essays on the futility of PE class in modern education but&lt;br /&gt;
+was pull-up and pushup champion in my class, and the classes immediately above and below me. I was a dark but decent poet, got arrested more times than I can count because that’s how my mother would ground me, by calling the police, I skipped 8th grade and did 2 years of high school with diploma, enrolled in college at 14 to take math and japanese business language but didn’t get to go. And I haven’t seen home since I was 15, I don’t actually have one but I did get to buy one for 500k in my 20’s without help, and park some nice cars there.&lt;/p&gt;
+
+&lt;p&gt;Every business Charles and I had up to the end was a million dollar earning company in its first year. Started every 1.5 years with a symbolic dollar capital contribution and physical assets of what came before. No bank loans. no help, and the first sales made before the ATM and LLC papers arrive in the fucking mail. check or wire at that,because merchant accounts are for pussy’s who like refunds chargebacks and coddling. and they are weak at least in relative terms&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Video Analytics $100k</title>
+   <link href="http://rayantony.github.io//blog_posts/2016/08/30/video-analytics-$100k/"/>
+   <updated>2016-08-30T19:01:00+00:00</updated>
+   <id>http://rayantony.github.io/blog_posts/2016/08/30/video-analytics-$100k</id>
+   <content type="html">&lt;h3 id=&quot;video-analytics&quot;&gt;Video Analytics&lt;/h3&gt;
+&lt;p&gt;The one post embezzlement sit down I did have with my partner he couldn’t hide excitement about a 100k funding deal from some hedge fund guy in New York he had access to he was so concerned with the long term he out of character was sitting on it until he was confident he had someone who could pull it off. He is sitting on a video analytics job, the basic specs of which are in production on the same server I’m typing this on because the only server out of a fleet that’s left not turned off for lack of payment is my phone server where I have my production use VBX 100 phone lines for other projects that get routed through here and drafts of my now ruined RTC, SIP, and conferencing software each of which was supposed to be a company anyway. the stats page on a one of my own custom plugins is doubling as a test for detailed user interaction with video elements metrics test version 1 I see it daily. Perfect right I mean I’ve already done it 6 months prior to him telling me I think its safe to call it handled.&lt;/p&gt;
+
+&lt;p&gt;Maybe he thought I’d say anything to get back a piece of whats mine, or to not sleep in the car that night as I did the night before on the coldest night of the year, well whatever he thought the fact is Ray &lt;em&gt;Antony&lt;/em&gt; (not me of course) has a string of code that put together from place to place certify that he is more than a little familiar with tracking code, I thought my experience with software to track reps go around us, ad metrics for out networks, things going back a decade would give me some points but I guess already done is just not good enough. Funny the same person to sabotage my credibility I guess forgot he did so and is concerned about my credibility. Maybe I explain the Ray Antony ID and take him through some things lol!&lt;/p&gt;
+
+&lt;h3 id=&quot;why-were-you-building-analytics-software&quot;&gt;why were you building analytics software?&lt;/h3&gt;
+&lt;p&gt;Many reasons I needed to prepare for having to rely on myself and not use Google for security, and at the same time the success of a couple projects was such that my old code stitched together over the decade (yes you heard right I’ve actually wrote tracking software before holy shit!), well it was breaking under the traffic and just not designed for the current demands.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Real Name</title>
+   <link href="http://rayantony.github.io//2016/08/30/real-name/"/>
+   <updated>2016-08-30T18:03:00+00:00</updated>
+   <id>http://rayantony.github.io/2016/08/30/real-name</id>
+   <content type="html">
+&lt;h3 id=&quot;why-rayantony--not-rayanthony-or-even-raykooyenga-&quot;&gt;Why @RayAn&lt;em&gt;tony&lt;/em&gt; , not @RayAn&lt;em&gt;thony&lt;/em&gt; or even @&lt;em&gt;RayKooyenga&lt;/em&gt; ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;@rayantony&quot;&gt;github.com/RayAn&lt;em&gt;tony&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;RayAn*tony*.github.io&quot;&gt;RayAn&lt;em&gt;tony&lt;/em&gt;.github.io&lt;/a&gt; exist because my real identity and the proper spelling of my name are not available.&lt;/p&gt;
+
+&lt;p&gt;As luck would have it legally I own it and logically I should be able to access it and administer it at my discretion with relative ease given that my business owns it.&lt;/p&gt;
+
+&lt;h3 id=&quot;ownership-confusion&quot;&gt;ownership confusion&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;So what’s the problem?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The problem is that my business partner has taken what was ours and made it his. Just try to picture Donald Trump, and his &lt;em&gt;We’re going to grab, and grab, and grab”&lt;/em&gt; speech.&lt;/p&gt;
+
+&lt;p&gt;Yeah it was kind like that I suppose. Not much ado was made over the innumerable consequences I might face large or small. And well I suppose I would rank this as small, in the big picture. But Very annoying.&lt;/p&gt;
+
+&lt;p&gt;I could do without appearing to have the grammar and spelling skills of a 3rd grader, now that I’m 35ish. That’s all I’m saying.&lt;/p&gt;
+
+&lt;p&gt;Public perception, misconceptions, and missed marketing and social opportunities are obvious issues with using this. As the core function of most of my businesses over the decade has revolved around Internet Marketing, its not lost on me the value of the opportunity cost.&lt;/p&gt;
+
+&lt;p&gt;Hard to not think about when things come up on a social coding site like a minor contribution to a DOD/government project which crossed paths with my own federated analytics undertaking at the time so whover the f&lt;em&gt;** ray *Antony&lt;/em&gt; is, well he’s closer to getting recruited than the real me.&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  This site is by Ray Antony / Ray Anthony, and any other known aliases that are applicable and none that are not.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>weird random content</title>
+   <link href="http://rayantony.github.io//disclosures/2016/08/30/weird-random-content/"/>
+   <updated>2016-08-30T14:43:00+00:00</updated>
+   <id>http://rayantony.github.io/disclosures/2016/08/30/weird-random-content</id>
+   <content type="html">
+&lt;p&gt;As far as I’m concerned if someone came looking for me or chancing upon this id and repo and left thinking that was just some weird guys nonsense rambling, that’s a best case scenario. Because the things I’ve been forced to stash in plain view under alternate names is well shocking.&lt;/p&gt;
+
+&lt;p&gt;I’ll admit I have a strange habit of posting odd things wrought with misspellings, grammatical errors, often while not looking at the screen or the keyboard. Sometimes that’s because I don’t care, yes. And obviously in most cases like that not considering an audience. I’m not ‘not successful’ you know, I did not have a moment of delusion and actually think that such things are after careful study, the best way to attract, and engage people with, and commence to create them. In fact I probably was trying to achieve what I did in the hopefully rare case of someone coming across it on this blog or literally a thousand other places in a span of a year or 2.&lt;/p&gt;
+
+&lt;p&gt;Yes its an unfortunate habit for a marketing guy but yes detracting people is a bigger consideration sometimes, so is time. So minimal hurried random stream of consciousness and oddly humoured content littered with personal jokes and references are pretty much what circumstances like this, call for. What circumstance? Well a blog in front of a code repository, one that might need to publicly stash keys or be a go between buffering identities transacting assets that are of high value and or at high risk, well what else would you do? Sometimes not filling out a silly blog is enough to make the decision without you to terminate your account so you blabber some nonsense.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>the end is the beginning is the end</title>
+   <link href="http://rayantony.github.io//2016/08/30/the-end-is-the-beginning-is-the-end/"/>
+   <updated>2016-08-30T14:23:00+00:00</updated>
+   <id>http://rayantony.github.io/2016/08/30/the-end-is-the-beginning-is-the-end</id>
+   <content type="html">
+&lt;p&gt;With regard to breaking silence and revealing through drafts and possibly published posts true and personal disclosures now in the places I left questions, or oddities, or built to be secret and secure, like where this is being written. The things I had to worry about are different now.&lt;/p&gt;
+
+&lt;p&gt;What would sound like paranoia or inflated self-importance and impossibly grandiose well, just doesn’t matter.&lt;/p&gt;
+
+&lt;p&gt;as its all now dead, stolen, whatever the thing is I was worried about in each case one way or another it wasn’t about out running, or outsmarting or anything so simple it was kind of like fate like those terrible b movies “final destination” there simply was no way around what was fated to be. I never would have believed that because it removes my ability to control that which is most important, but im not so sure about anything after all thats happened. And to be honest it feels now like an ending not a fight anymore and in any case there really is no way to look at it other than that I lost miserably.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>the bright side of working under cover</title>
+   <link href="http://rayantony.github.io//blog-posts/2016/08/30/the-bright-side-of-working-under-cover/"/>
+   <updated>2016-08-30T13:41:00+00:00</updated>
+   <id>http://rayantony.github.io/blog-posts/2016/08/30/the-bright-side-of-working-under-cover</id>
+   <content type="html">&lt;h1 id=&quot;why-not-rayanthony&quot;&gt;Why not RayAnthony?&lt;/h1&gt;
+
+&lt;h3 id=&quot;why-rayantony--not-rayanthony-or-even-raykooyenga-&quot;&gt;Why @RayAn&lt;em&gt;tony&lt;/em&gt; , not @RayAn&lt;em&gt;thony&lt;/em&gt; or even @&lt;em&gt;RayKooyenga&lt;/em&gt; ?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;@rayantony&quot;&gt;github.com/RayAn&lt;em&gt;tony&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;RayAn*tony*.github.io&quot;&gt;RayAn&lt;em&gt;tony&lt;/em&gt;.github.io&lt;/a&gt; exist because my real identity and the proper spelling of my name are not available.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-real-name&quot;&gt;My Real Name&lt;/h3&gt;
+&lt;p&gt;I’ve since acquired and unlocked some other variations so more confusion is available. My proper name is not something I have yet.&lt;/p&gt;
+
+&lt;p&gt;Though as luck would have it legally I own it and logically I should be able to access it and administer it at my discretion with relative ease given that my business owns it.&lt;/p&gt;
+
+&lt;h3 id=&quot;ownership-confusion&quot;&gt;ownership confusion&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;So what’s the problem?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The problem is that my business partner has taken what was ours and made it his.&lt;/p&gt;
+
+&lt;p&gt;Just try to picture Donald Trump, and his &lt;em&gt;We’re going to grab, and grab, and grab”&lt;/em&gt; speech. Yeah it was kind like that I suppose. Not much ado was made over the innumerable consequences I might face large or small. And well I suppose I would rank this as small, as far as losses as a result of this mess.&lt;/p&gt;
+
+&lt;h3 id=&quot;inconveniences-have-a-bright-side&quot;&gt;Inconveniences have a bright side&lt;/h3&gt;
+&lt;p&gt;Public perception, misconceptions, and missed marketing and social opportunities aside it is a huge inconvenience for me more than others and has for complicated reasons prompted workarounds that include even more alternate id’s oh yeah then there things like a minor contribution to a DOD/government project which crossed paths with my own federated analytics undertaking at the time and of course the credit is forever linked to this stupid name.&lt;/p&gt;
+
+&lt;p&gt;But because its a &lt;em&gt;misspelling&lt;/em&gt; of my &lt;em&gt;alias&lt;/em&gt; name its pretty quiet socially. Enemies cant take shots easily or steal projects, I’m working on I can do so quite secretly in plain view sparing me the necessity I would otherwise have of expensive beyond affordability pro accounts all over town, and that’s just the beginning of pain in the ass.&lt;/p&gt;
+
+&lt;p&gt;The things I’ve put in plain sight and accessible to all is against my nature certainly, but the extent of this is shocking really I imagine, it shocks me to think about but I needed to for sake of balancing time and finance.&lt;/p&gt;
+
+&lt;p&gt;When you are robbed blind and under fire with no defenses and have to build a shovel to dig out of the hole you have to face things like sometimes it absolutely will come down to doing the most reckless dangerous things against every bone in your body, rather than devote 20 minutes because the question comes up over sometimes hundreds of times a day. Better yet don’t because you don’t have time to multiply it out do have the math and make a decision next problem I hate it more than anyone but its been reality, and despite how it all may have looked then and certainly now, I was wrong about pretty much virtually nothing at least I can honestly say for everything that was truly a mistake I knew everytime that it may be so I did not get taken by surprise. Its outside the scope of this piece but I don’t make assumptions and wild guesses based on bad information, tainted evidence, I don’t ask someone in florida about the weather in california and then take that to a bookie and bet the farm. I can tell you about 3 people though that do that as a matter of course&lt;/p&gt;
+
+&lt;p&gt;Most are not significant, and I can still count them on one hand. Thats not arrogance, its a system I adhered to, and to make the claim I just did is the one and only reward the system offers other than that its just about other than the outcome itself and whether it comes with any sort of validation or credit, the reward the only rewardit’s arguable none were fatal, half ended absolutely fine anyway-and not because of luck, more like luck wasn’t so &lt;em&gt;bad&lt;/em&gt; that a 7th level backup plan would be needed after all.&lt;/p&gt;
+
+&lt;p&gt;wa for instance  and really is me wanting a kind of perfection bac Real security is a time consuming commitment that once started cannot be easily got around that’s sort of the point of it. I need to automate because I have more necessary than I can possibly do, adding more is not an option, cutting is. So that’s one good thing.&lt;/p&gt;
+
+&lt;p class=&quot;message&quot;&gt;
+  This site is by Ray Antony / Ray Anthony, and any other known aliases that are applicable and none that are not.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>wtf is rayantony</title>
+   <link href="http://rayantony.github.io//2015/03/06/wtf-is-rayantony/"/>
+   <updated>2015-03-07T00:00:00+00:00</updated>
+   <id>http://rayantony.github.io/2015/03/06/wtf-is-rayantony</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Hyde, Dr. Jekyll’s effective master.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Though it is originally&lt;/strong&gt; and quite obviously we imagine, pertaining to to the jekyll system and hyde theme, its inclusion or rather lack of deletion is do to the story’s applying as well to this blog in particular. The ‘ray antony git blog’, is in fact by rayantony’s master ‘ray anthony’ but through an unfortunate circumstance within the normal naming system eg bad timing, alas it must bear the unfortunate name of ‘ray antony’, of course missing that crucial consonant the cause of yet a new fracture to the self formerly and to be again, ray anthony. Yes, “a new anxiety to vex me”, you might say.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Confused?&lt;/em&gt; Aren’t we all… But, who is anybody really? And being in whole or in part the owner and operator of innumerable companies, startups, and corporations, innumerable aliases, 100’s of domains and respective accounts later, to tell up from down becomes suddenly, not so simple. You begin to question if ever there was even a time in which things were (simple, that is).&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://rayantony.github.io//2013/12/31/example-content/"/>
+   <updated>2014-01-01T00:00:00+00:00</updated>
+   <id>http://rayantony.github.io/2013/12/31/example-content</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
+&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function
+&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
 
 </feed>
