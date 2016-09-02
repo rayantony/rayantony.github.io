@@ -1,8 +1,9 @@
 ---
 title: Credibility and Reputation Cheap Lazy PR
 date: 2016-08-30 15:10:00 -07:00
+layout: post
 categories:
-- blog-posts
+- posts
 tags:
 - business
 ---

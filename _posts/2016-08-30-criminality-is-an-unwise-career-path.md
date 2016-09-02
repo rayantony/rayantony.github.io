@@ -58,6 +58,7 @@ layout: post
    odesk doing everything for them students, or when they get older and
    call themselves a software startup, and well I won’t go there.
 
+[TBD]
 
    I’ve had at least 4 accidents between people hitting my car while
    its parked in a parking lot and I’m not in it, An accidental

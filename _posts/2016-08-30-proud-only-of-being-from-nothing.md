@@ -1,11 +1,11 @@
 ---
 title: proud only of being from nothing
 date: 2016-08-30 13:57:00 -07:00
+layout: post
 categories:
-- blog-posts
+- posts
 tags:
 - background
-layout: post
 ---
 
 ### Long way up

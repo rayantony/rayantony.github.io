@@ -1,8 +1,9 @@
 ---
 title: Customer Service  Social and  Kid Gloves
 date: 2016-08-30 15:20:00 -07:00
+layout: post
 categories:
-- blog-posts
+- posts
 tags:
 - business
 ---

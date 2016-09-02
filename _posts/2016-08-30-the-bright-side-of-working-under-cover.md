@@ -1,11 +1,11 @@
 ---
 title: the bright side of working under cover
 date: 2016-08-30 06:41:00 -07:00
+layout: post
 categories:
 - blog-posts
 tags:
 - alias
-layout: post
 ---
 
 Why not RayAnthony?

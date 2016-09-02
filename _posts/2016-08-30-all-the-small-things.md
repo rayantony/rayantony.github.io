@@ -1,8 +1,9 @@
 ---
 title: All the small things
 date: 2016-08-30 15:17:00 -07:00
+layout: post
 categories:
-- blog-posts
+- posts
 tags:
 - blogs
 - rant

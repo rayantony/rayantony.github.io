@@ -1,6 +1,7 @@
 ---
 title: the end is the beginning is the end
 date: 2016-08-30 07:23:00 -07:00
+layout: post
 ---
 
 

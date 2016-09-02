@@ -1,12 +1,12 @@
 ---
 title: weird random content
 date: 2016-08-30 07:43:00 -07:00
+layout: post
 categories:
 - disclosures
 tags:
 - odd content
 - explanations
-layout: post
 ---
 
 
