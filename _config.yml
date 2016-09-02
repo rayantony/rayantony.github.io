@@ -1,23 +1,14 @@
----
 title: WTF is Ray Antony
 timezone: America/Los_Angeles
-collections:
-  data:
-    title: Data
-    output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+gems: 		     [jekyll-paginate]
 tagline: a G.H. Pages Blog
-url: http://rayantony.github.io
-baseurl: "/"
+url: //rayantony.github.io
+baseurl: ""
 Description: Disclosures, reflections, and code tell the fragmented story of life
   post embezzlement
 permalink: pretty
-relative_permalinks: true
+future: true
+# relative_permalinks: true
 paginate: 5
 author:
   name: Ray Anthony
@@ -39,7 +30,8 @@ github:
   org: https://github.com/rayrc/
   team: https://github.com/rayrc/
 markdown: kramdown
+highlighter: pygments
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+#  syntax_highlighter: rouge
 version: 1.0.0
