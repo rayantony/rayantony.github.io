@@ -6,19 +6,18 @@
 <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
 content to avoid any CSS collisions with our real content. -->
 <div class="wrap">
-<div class="masthead bg8">
+<div class="masthead segment bg12">
 <div class="ui container">
 <h3 class="masthead-title">
 <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
 <small>{{ site.tagline }}</small>
 </h3>
 </div>
-</div>
 <script src="https://platform.twitter.com/js/button.369579b2450be1b134e6754cd8501155.js" async="" charset="utf-8" type="text/javascript"></script>
 <div class="container content">
 {{ content }}
 </div>
-</div>
+</div></div>
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 <script>
 (function(document) {
@@ -51,6 +50,20 @@ useFileCache : false
 };
 </script>
 <script src="http://semantic-ui.com/javascript/library/less.min.js"></script>
-</div><iframe style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" allowfullscreen="true" allowtransparency="true" id="rufous-sandbox" frameborder="0" scrolling="no"></iframe>
+<iframe style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" allowfullscreen="true" allowtransparency="true" id="rufous-sandbox" frameborder="0" scrolling="no"></iframe>
+
+<script>
+  (function () {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  }());
+</script>
+
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script src="https://d301sr5gafysq2.cloudfront.net/720b52fc308b/dist/webpack/common.js"></script>
+<script src="https://d301sr5gafysq2.cloudfront.net/720b52fc308b/dist/webpack/snippets.js"></script>
 </body>
 </html>
