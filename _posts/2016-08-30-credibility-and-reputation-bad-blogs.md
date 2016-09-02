@@ -9,10 +9,7 @@ tags:
 layout: post
 ---
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 2fb06fc538d1eb9e6189ae727b8324a7d5cf2b21
 ### Credibility and Reputation Bad Blogs
 My real name and partially accurate info all misspelled just correct enough though to where it's undoubtedly me are not just a complication I've cut short many of these posts for readability but such as all things in life one thing leads to another and its all cause and effect. 
 
@@ -24,8 +21,4 @@ You do *not* engage on public forums how dumb are you? How vain rather. I wonder
 
 Mean-ness, rage, a need to belittle others and feeling nothing or worse, feeling good while doing it is what bullies do. It's a sickness stemming from as I've seen it either overcompensating for feelings of inadequacy and low self worth or from inflated egos and god-like self importance narcissm. They require a doctor, if you aren't too angry and amped up for a waiting room twice a month. Or you can let it out on your employees so that they are so afraid and angry add to the fact you fired them and they don't have any other outlet to reach you, you have a recipe for some harsh blogs coming. It may be all customers, and all bullshit, but no matter how many mountains you move to get from one stage to the next, 1 blogger can reset your score. And if you don't care about that, care about the partner standing next to you because he's going down with you. Like I did with Charles. 
 
-<<<<<<< HEAD
 I'll continue this Credibility Rant with regard to Dangerously Sloppiness Rep Management on a another post
-=======
-I'll continue this Credibility Rant with regard to Dangerously Sloppiness Rep Management on a another post
->>>>>>> 2fb06fc538d1eb9e6189ae727b8324a7d5cf2b21
