@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body id="example" class="theme-color-0d index pushindex pushable" ontouchstart="">
+{% include sidebar2.html %}
+<!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+content to avoid any CSS collisions with our real content. -->
+<div class="wrap">
+<div class="masthead bg8">
+<div class="ui container">
+<h3 class="masthead-title">
+<a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+<small>{{ site.tagline }}</small>
+</h3>
+</div>
+</div>
+<script src="https://platform.twitter.com/js/button.369579b2450be1b134e6754cd8501155.js" async="" charset="utf-8" type="text/javascript"></script>
+<div class="container content">
+{{ content }}
+</div>
+</div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+<script>
+(function(document) {
+var toggle = document.querySelector('.sidebar-toggle');
+var sidebar = document.querySelector('#sidebar');
+var checkbox = document.querySelector('#sidebar-checkbox');
+document.addEventListener('click', function(e) {
+var target = e.target;
+if(!checkbox.checked ||
+sidebar.contains(target) ||
+(target === checkbox || target === toggle)) return;
+checkbox.checked = false;
+}, false);
+})(document);
+</script>
+<script src="//semantic-ui.com/javascript/library/easing.js"></script>
+<script src="//semantic-ui.com/javascript/library/typing.js"></script>
+<script src="//semantic-ui.com/dist/semantic.min.js"></script>
+<script src="http://rayanthony.io/extensions/javascript/docs.js"></script>
+<script src="http://rayanthony.io/extensions/javascript/home.js"></script>
+<script src="http://semantic-ui.com/javascript/docs.js"></script>
+<script src="http://semantic-ui.com/javascript/home.js"></script>
+<script>
+window.less = {
+async : true,
+environment : 'production',
+fileAsync : false,
+onReady : false,
+useFileCache : false
+};
+</script>
+<script src="http://semantic-ui.com/javascript/library/less.min.js"></script>
+</div><iframe style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" allowfullscreen="true" allowtransparency="true" id="rufous-sandbox" frameborder="0" scrolling="no"></iframe>
+</body>
+</html>
