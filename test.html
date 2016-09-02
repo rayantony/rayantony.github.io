@@ -5,7 +5,7 @@ date: 2016-07-05 15:32:10 -0800
 ---
 <div class="posts">
 {% for post in paginator.posts %}
-<article class="post">
+<div class="post">
 <h1 class="post-title">
 <a href="{{ post.url }}">
 {{ post.title }}
@@ -13,7 +13,7 @@ date: 2016-07-05 15:32:10 -0800
 </h1>
 <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 {{ post.content }}
-</article>
+</div>
 {% endfor %}
 </div>
 <div class="pagination">
