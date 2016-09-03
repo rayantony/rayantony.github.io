@@ -1,6 +1,6 @@
 ---
 title: Example content
-date: 2016-09-01 00:00:00 -0800
+date: 2016-09-01 01:00:00 -07:00
 layout: semantic
 ---
 

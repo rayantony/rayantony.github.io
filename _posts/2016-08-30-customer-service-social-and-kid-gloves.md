@@ -1,13 +1,12 @@
 ---
 title: Customer Service  Social and  Kid Gloves
 date: 2016-08-30 15:20:00 -07:00
-layout: post
 categories:
 - posts
 tags:
 - business
+layout: post
 ---
-
 
 ### CS - blog background
 A few years ago a disgruntled former employee was inconsolable upset at my then partner, in his less crooked days (he looked hte same just happier). He wasn't being treated with the kid gloves that I myself found to be necessary in all dealing with him. These kid gloves, and a lot of empathy and patience allowed me to go so far as to basically fire him, and quite nearly get him to move out of state, far away  (paid by me personally) which is what you want. I acheived this with his word also I would be exempt from the blogs that he would inevitably write because he liked me. 

@@ -1,12 +1,12 @@
 ---
 title: Video Analytics $100k
 date: 2016-08-30 12:01:00 -07:00
-layout: post
 categories:
 - posts
 tags:
 - charles
 - analytics
+layout: post
 ---
 
 ### Video Analytics

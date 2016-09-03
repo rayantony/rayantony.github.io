@@ -1,12 +1,12 @@
 ---
 title: All the small things
 date: 2016-08-30 15:17:00 -07:00
-layout: post
 categories:
 - posts
 tags:
 - blogs
 - rant
+layout: post
 ---
 
 These small things have culminating in disasters that seem like considerable inconveniences  but more like a retarded me pushing some god forsaken hybrid of SEO and Pay Per Click Managed campaign like a doofus, with the vocabulary of well an Indian Odesker.

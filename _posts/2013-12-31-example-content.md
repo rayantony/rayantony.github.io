@@ -1,6 +1,6 @@
 ---
 title: Example content
-date: 2014-01-01 00:00:00 Z
+date: 2013-12-31 16:00:00 -08:00
 layout: post
 ---
 

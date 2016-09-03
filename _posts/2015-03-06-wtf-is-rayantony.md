@@ -1,6 +1,6 @@
 ---
 title: wtf is rayantony
-date: 2015-03-07 00:00:00 Z
+date: 2015-03-06 16:00:00 -08:00
 layout: post
 ---
 

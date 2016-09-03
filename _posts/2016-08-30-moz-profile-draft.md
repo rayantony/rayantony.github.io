@@ -1,6 +1,7 @@
 ---
-layout: post
 title: moz profile summary draft
+date: 2016-08-30 00:00:00 -07:00
+layout: post
 ---
 
 from [moz.com ray's profile](https://moz.com/community/users/415195)

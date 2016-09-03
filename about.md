@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-date: 2016-07-05 15:32:10 -0800
+date: 2016-07-05 16:32:10 -07:00
+layout: page
 ---
 
 <p class="message">

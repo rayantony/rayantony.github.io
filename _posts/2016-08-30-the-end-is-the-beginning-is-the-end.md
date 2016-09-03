@@ -4,7 +4,6 @@ date: 2016-08-30 07:23:00 -07:00
 layout: post
 ---
 
-
 With regard to breaking silence and revealing through drafts and possibly published posts true and personal disclosures now in the places I left questions, or oddities, or built to be secret and secure, like where this is being written. The things I had to worry about are different now. 
 
 What would sound like paranoia or inflated self-importance and impossibly grandiose well, just doesn't matter.

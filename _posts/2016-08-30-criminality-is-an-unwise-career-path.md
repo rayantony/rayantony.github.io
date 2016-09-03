@@ -1,5 +1,6 @@
 ---
-title:  Why Criminality is an unwise Career Path
+title: Why Criminality is an unwise Career Path
+date: 2016-08-30 00:00:00 -07:00
 layout: post
 ---
 

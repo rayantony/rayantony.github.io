@@ -1,14 +1,13 @@
 ---
 title: weird random content
 date: 2016-08-30 07:43:00 -07:00
-layout: post
 categories:
 - disclosures
 tags:
 - odd content
 - explanations
+layout: post
 ---
-
 
 As far as I'm concerned if someone came looking for me or chancing upon this id and repo and left thinking that was just some weird guys nonsense rambling, that's a best case scenario. Because the things I've been forced to stash in plain view under alternate names is well shocking. 
 
