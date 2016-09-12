@@ -1,6 +1,6 @@
 ---
-title: Example Semantic Layout
-date: 2016-09-01 01:00:00 -07:00
+title: Semantic layout
+date: 2016-09-11 07:35:00 -08:00
 layout: semantic
 ---
 
