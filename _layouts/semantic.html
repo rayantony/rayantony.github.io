@@ -308,27 +308,35 @@ background-size: cover;
           <script src="https://platform.twitter.com/widgets.js" id="twitter-wjs"></script><script type="text/javascript">
           window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
           </script>
-          <iframe class="github" src="http://ghbtns.com/github-btn.html?user=rayrc&amp;&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" height="20" scrolling="0" width="100"></iframe>         
+          <iframe class="github" src="http://ghbtns.com/github-btn.html?user=rayantony&amp;&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" height="20" scrolling="0" width="100"></iframe>         
         </div>
         <div class="ui language floating dropdown link item" id="languages">
           <i class="world icon"></i>
-          <div class="text">English</div>
+          <div class="text">{{ post.title }}</div>
           <div class="menu">
-            <div class="header">Search Languages</div>
+            <div class="header">Recent Posts</div>
             <div class="ui icon search input">
               <i class="search icon"></i>
-              <input placeholder="Search languages..." type="text">
+              <input placeholder="Recent Posts..." type="text">
             </div>
-<div class="scrolling menu">
-  <div class="item" data-percent="100" data-value="en" data-text="English" data-english="English">
+<div class="scrolling menu related">
+	 {% for post in site.related_posts limit:3 %}
+<!--  <div class="item" data-percent="100" data-value="en" data-text="English" data-english="English">
     <span class="description">English</span>
     English
-  </div>
-  <div class="item" data-percent="94" data-value="es" data-text="Español" data-english="Spanish">
-    <span class="description">Español</span>
-    Spanish
-  </div>
+  </div> -->
+
+<div class="related-posts item" data-percent="100" data-value="{{ site.baseurl }}{{ post.url }}" data-text="{{ post.title }}">
+ <span class="description">{{ post.title }}</span>
+    {{ post.title }}
+<!-- <a href="{{ site.baseurl }}{{ post.url }}">
+<small>{{ post.date | date_to_xmlschema }}</small>
+</a> -->
 </div>
+
+      {% endfor %}
+</div>
+
           </div>
         </div>
       </div>
@@ -342,14 +350,25 @@ background-size: cover;
     <div class="introduction center aligned grid">
 
     <h1 class="ui inverted header">
-          <span class="library transition visible">IE Sucks</span>  
-	<span class="tagline">Internet Explorer's </span>        
-          <b data-text="a F@#$ing Moron">a F@#$ing Moron</b><span class="typed-cursor">|</span> 
-<!-- as semantic actually sucks and removed this, hack to fix remember the blink vs marquee! -->
-        <blink>|</blink>
+          <span class="library transition visible">Articles</span>  
+	<span class="tagline">{{ page.title }} </span>        
+          <b data-text="by Ray Anthony">by Ray Anthony</b><span class="typed-cursor">|</span> 
+       <blink>|</blink>
         </h1>
+
+<div class="post">
+<!--<h1 class="post-title">{{ page.title }} -->
+<time datetime="{{ page.date | date_to_xmlschema }}" class="page-date">{{ page.date | date_to_string }}</time><span class="typed-cursor">|</span> 
+       <blink>|</blink>
+       </h1>
+<!-- <span class="post-date">{{ page.date | date_to_string }}</span> -->
+<main>
+{{ content }}
+</main>
+</div>
+
     <h1 class="ui inverted header">
-          <span class="library transition visible"> The Official Extension for Chrome.</span>
+  <!--        <span class="library transition visible"> The Official Extension for Chrome.</span> -->
     </h1>
         <div class="ui hidden divider"></div>
         <a href="https://chrome.google.com/webstore/detail/ie-sucks/ejbiekjpeokjbhahjchhbgkpabjhbiec" class="ui huge basic inverted blue button"> Get It Now  </a>
