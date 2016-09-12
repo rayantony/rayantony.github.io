@@ -241,15 +241,17 @@ background-size: cover;
 <style>
 /* FIX TRIES */
 			body {
-/* these will lock to display window no scrolling!!!  
+/* these will lock to display window no scrolling!!!  */
 				margin: 0;
 				overflow: hidden;
 				overflow-x: hidden;
 				}
-				*/
+			
 /* allow scroll? */
+@media only screen and (min-width:993px max-width:1600px;) { 
 
-html,body,ui,.masthead{
+
+html,body,ui,#example.index,.masthead{
 	    background: none repeat scroll 0% 0% rgb(84, 84, 84)!important;
 	overflow: visible!important;
 	overflow-x: visible!important;
@@ -280,6 +282,7 @@ html,body,ui,.masthead{
 		outline: 0; /* this removes browser-side outline */
 		border-color: #4d90fe;
 		}
+}
 </style>
 
 
