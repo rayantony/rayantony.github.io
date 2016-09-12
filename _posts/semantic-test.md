@@ -1,11 +1,12 @@
 ---
-title: Example content
+title: Example content Semantic Layout
 date: 2016-09-01 01:00:00 -07:00
 layout: semantic
 ---
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  This example blog post borrows from rayanthony extensions' Semantic theme. 
+  
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
